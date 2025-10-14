@@ -1,0 +1,50 @@
+name: Import projects into Portfolio
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - ".github/workflows/import-projects.yml"
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Portfolio
+        uses: actions/checkout@v4
+
+      - name: Checkout Tableau project
+        uses: actions/checkout@v4
+        with:
+          repository: AmySnowhill/Tableau-Sample-Project
+          path: Tableau-Sample-Project
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout Chipotle Arena project
+        uses: actions/checkout@v4
+        with:
+          repository: AmySnowhill/Chipotle-Arena-Simulation
+          path: Chipotle-Arena-Simulation
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout Snowmans Seasonings project
+        uses: actions/checkout@v4
+        with:
+          repository: AmySnowhill/Snowmans-Seasonings
+          path: Snowmans-Seasonings
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Remove .git folders from checkouts
+        run: |
+          rm -rf Tableau-Sample-Project/.git
+          rm -rf Chipotle-Arena-Simulation/.git
+          rm -rf Snowmans-Seasonings/.git
+
+      - name: Commit and push to Portfolio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import three projects into Portfolio" || echo "No changes to commit"
+          git push
