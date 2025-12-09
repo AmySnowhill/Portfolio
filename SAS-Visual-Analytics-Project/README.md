@@ -11,10 +11,6 @@ The exported report shows pages, metrics,  and visuals.
 Includes exported dashboard pages, visuals, and metrics from SAS Visual Analytics.  
 👉 [Open File](SAS_Visual_Analytics_Project.pdf)
 
-📊 Key Highlights  
-Multiple pages displaying performance metrics  
-Charts and visuals created in SAS Visual Analytics  
-PDF version showing dashboard structure and insights
 ---
 
 ## 📊 Key Highlights  
