@@ -1,6 +1,23 @@
 # SAS Visual Analytics Project
 
-This project includes an interactive business dashboard built in SAS Visual Analytics.
-The PDF export below shows the pages, metrics, visuals, and analysis used in the report.
+This project includes an interactive business dashboard built in SAS Visual Analytics. The report was exported to PDF and displays pages, visuals, metrics, and analytical findings.
 
-📄 SAS Project Output: `SAS_Visual_Analytics_Project.pdf.pdf`
+---
+
+## 📂 Project Files  
+
+- 📄 **SAS_Visual_Analytics_Project.pdf** — exported dashboard report  
+
+---
+
+## 📊 Key Highlights  
+
+- Multiple pages displaying performance metrics  
+- Charts and visuals created in SAS Visual Analytics  
+- PDF version showing dashboard structure and insights  
+
+---
+
+## 📌 Purpose  
+
+This project demonstrates dashboard development and performance analysis using SAS Visual Analytics.
