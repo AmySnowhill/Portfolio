@@ -6,9 +6,9 @@ The exported report shows pages, metrics,  and visuals.
 ---
 
 ## 📂 Project Files  
-
+  
 **Dashboard PDF:**  
-➡️ [Click to download SAS_Visual_Analytics_Project.pdf](SAS_Visual_Analytics_Project.pdf)
+➡️ [Download SAS_Visual_Analytics_Project.pdf](SAS_Visual_Analytics_Project.pdf)
 
 ---
 
