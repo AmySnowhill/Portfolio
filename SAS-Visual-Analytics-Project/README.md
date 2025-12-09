@@ -22,3 +22,4 @@ The exported report shows pages, metrics,  and visuals.
 ## 📌 Purpose  
 
 This project demonstrates dashboard development and performance analysis using SAS Visual Analytics.
+[Click here to open the dashboard PDF](SAS_Visual_Analytics_Project.pdf)
