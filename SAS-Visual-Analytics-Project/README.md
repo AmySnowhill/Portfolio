@@ -8,8 +8,9 @@ The exported report shows pages, metrics,  and visuals.
 📁 Project Files  
 
 📄 **Dashboard Report (PDF)**  
+  
 Includes exported dashboard pages, visuals, and metrics from SAS Visual Analytics.  
-👉 **[Open File](SAS_Visual_Analytics_Project.pdf)**
+👉 [Open File](SAS_Visual_Analytics_Project.pdf)
 ---
 
 ## 📊 Key Highlights  
