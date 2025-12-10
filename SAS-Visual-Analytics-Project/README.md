@@ -29,7 +29,7 @@ Compares product lines by profit and volume to identify top performers.
 ## 📌 Screenshot 4 — Detail Table View  
 Tabular display for reviewing specific data components within dashboards.
 
-![Screenshot 4](/SAS-Visual-Analytics-Project/Screenshot4.png)
+![Screenshot4](/SAS-Visual-Analytics-Project/Screenshot4.png)
 
 ---
 
