@@ -22,7 +22,7 @@ Shows interactive mapping and drill-down navigation from region to state to city
 ## 📌Product Comparison  
 Compares major product lines by profit and volume to reveal top performers.
 
-![Screenshot 3](Screenshot3.png)
+![Screenshot 3](productcomparison.png)
 
 ---
 
