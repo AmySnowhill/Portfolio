@@ -2,6 +2,9 @@
 
 This portfolio highlights selected work focused on visualization, modeling, and business analysis.
 
+## SAS Visual Analytics Dashboard
+Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
+➡️ [View Project Files](#sas-visual-analytics-dashboard)
 ## Chipotle Arena Simulation
 Queue and staffing model with before/after scenarios and performance measures.  
 ➡️ [View Project Files](Chipotle-Arena-Simulation/)
