@@ -15,7 +15,7 @@ Displays overall performance trends broken down by state.
 ## 📌Geographic Drill-Down  
 Shows interactive mapping and drill-down navigation from region to state to city performance.
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](geographicdrilldown.png)
 
 ---
 
