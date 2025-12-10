@@ -1,26 +1,38 @@
-# SAS Visual Analytics Project
+# SAS Visual Analytics Dashboard
 
-This project includes an interactive business dashboard built in SAS Visual Analytics.  
-The exported report shows pages, metrics,  and visuals.
-
----
-
-## 📁 Project Files
-
-📄 **Dashboard Report (PDF)**  
-Includes exported dashboard pages, visuals, and metrics from SAS Visual Analytics.  
-👉 [Open File](SAS_Visual_Analytics_Project.pdf)
+This project includes dashboard pages exported from SAS Visual Analytics.  
+Screenshots below show the visuals and drill-downs, with brief explanations.
 
 ---
 
-## 📊 Key Highlights  
+## 📌 Screenshot 1 — Regional Performance Overview  
+Displays overall performance trends, broken down by state.
 
-- Multiple pages displaying performance metrics  
-- Charts and visuals created in SAS Visual Analytics  
-- PDF version showing dashboard structure and insights  
+![Screenshot 1](Screenshot1.png)
 
 ---
 
-## 📌 Purpose  
+## 📌 Screenshot 2 — Geographic Drill-Down  
+Shows interactive drill-down map allowing state-to-city exploration.
 
-This project demonstrates dashboard development and performance analysis using SAS Visual Analytics.
+![Screenshot 2](Screenshot2.png)
+
+---
+
+## 📌 Screenshot 3 — Product Comparison  
+Compares product lines by profit and volume to identify top performers.
+
+![Screenshot 3](Screenshot3.png)
+
+---
+
+## 📌 Screenshot 4 — Detail Table View  
+Tabular display for reviewing specific data components within dashboards.
+
+![Screenshot 4](Screenshot4.png)
+
+---
+
+### 🔹 Files Included  
+✔ Exported PDF dashboard report  
+✔ Four screenshots with explanations
