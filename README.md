@@ -5,13 +5,16 @@ This portfolio highlights selected work focused on visualization, modeling, and 
 ## SAS Visual Analytics Dashboard
 Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
 ➡️ [View Project Files](https://github.com/AmySnowhill/Portfolio/tree/main/SAS-Visual-Analytics-Project)
+Interactive report revealing profitability trends and regional performance.
 ## Chipotle Arena Simulation
 Queue and staffing model with before/after scenarios and performance measures.  
 ➡️ [View Project Files](Chipotle-Arena-Simulation/)
+Queue and staffing model showing improvement after adding resources.
 
 ## Tableau Survey Project
 Executive dashboard and two data stories based on survey results.  
 ➡️ [View Project Files](Tableau-Sample-Project/)
+Survey-based dashboard + stories exploring age-based technology habits.
 
 ## Snowman’s Seasonings
 Mini brand and marketing plan with mock website assets and product concept.  
