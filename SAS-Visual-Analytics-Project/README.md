@@ -8,7 +8,7 @@ Screenshots below show key visuals and drill-downs, along with short explanation
 ## 📌Regional Performance Overview
 Displays overall performance trends broken down by state.
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot 1](regionalperformanceoverview.png)
 
 ---
 
