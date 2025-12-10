@@ -1,38 +1,40 @@
 # SAS Visual Analytics Dashboard
 
 This project includes dashboard pages exported from SAS Visual Analytics.  
-Screenshots below show the visuals and drill-downs, with brief explanations.
+Screenshots below show key visuals and drill-downs, along with short explanations of what each page communicates.
 
 ---
 
-## 📌 Screenshot 1 — Regional Performance Overview  
-Displays overall performance trends, broken down by state.
+## 📌 Screenshot 1 — Regional Performance Overview
+Displays overall performance trends broken down by state.
 
-![Screenshot1](Screenshot1.png)
+![Screenshot 1](Screenshot1.png)
 
 ---
 
 ## 📌 Screenshot 2 — Geographic Drill-Down  
-Shows interactive drill-down map allowing state-to-city exploration.
+Shows interactive mapping and drill-down navigation from region to state to city performance.
 
-![Screenshot2](Screenshot2.png)
+![Screenshot 2](Screenshot2.png)
 
 ---
 
 ## 📌 Screenshot 3 — Product Comparison  
-Compares product lines by profit and volume to identify top performers.
+Compares major product lines by profit and volume to reveal top performers.
 
-![Screenshot3](Screenshot3.png)
+![Screenshot 3](Screenshot3.png)
 
 ---
 
 ## 📌 Screenshot 4 — Detail Table View  
-Tabular display for reviewing specific data components within dashboards.
+Tabular display for reviewing facility-level data such as profit, capacity, and yield.
 
-![Screenshot 4](/SAS-Visual-Analytics-Project/Screenshot4.png)
+![Screenshot 4](Screenshot4.png)
 
 ---
 
-### 🔹 Files Included  
-✔ Exported PDF dashboard report  
-✔ Four screenshots with explanations
+## 🔑 Insights
+
+- Facility profitability varies significantly across states and product lines.
+- Geographic drill-downs help isolate high-performing regions and areas needing attention.
+- Tabular views give leadership targeted visibility into performance details for decision-making.
