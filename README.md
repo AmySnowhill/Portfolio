@@ -37,4 +37,6 @@ Mini brand and marketing plan with mock website assets and product concept.
 
 ---
 ## Connect
-LinkedIn: https://www.linkedin.com/in/amy-snowhill-4431b6363  I welcome networking, mentorship, and analyst opportunities.
+LinkedIn: https://www.linkedin.com/in/amy-snowhill-4431b6363  
+
+I welcome networking, mentorship, and analyst opportunities.
