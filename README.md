@@ -4,7 +4,7 @@ This portfolio highlights selected work focused on visualization, modeling, and 
 
 ## SAS Visual Analytics Dashboard
 Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
-➡️ [View Project Files](#sas-visual-analytics-dashboard)
+➡️ [View Project Files](https://github.com/AmySnowhill/Portfolio/tree/main/SAS-Visual-Analytics-Project)
 ## Chipotle Arena Simulation
 Queue and staffing model with before/after scenarios and performance measures.  
 ➡️ [View Project Files](Chipotle-Arena-Simulation/)
