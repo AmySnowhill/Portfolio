@@ -1,4 +1,4 @@
-#Tableau Survey Project  
+##Tableau Survey Project  
 
 This project includes a dashboard and two visual stories based on survey results.  
 Screenshots represent the dashboard and story output created in Tableau.
