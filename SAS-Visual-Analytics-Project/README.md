@@ -29,7 +29,7 @@ Compares major product lines by profit and volume to reveal top performers.
 ## 📌Detail Table View  
 Tabular display for reviewing facility-level data such as profit, capacity, and yield.
 
-![Screenshot 4](Screenshot4.png)
+![Screenshot 4](detailtableview.png)
 
 ---
 
