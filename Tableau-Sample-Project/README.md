@@ -5,4 +5,4 @@ Screenshots represent the dashboard and story output created in Tableau.
 ## 📘 Story 1
 ![Story 1](Story1.png)
 ## 📗 Story 2
-![Story 2](Screenshot%202025-10-06%20175052.png)
+![Story 2](Story2.png)
