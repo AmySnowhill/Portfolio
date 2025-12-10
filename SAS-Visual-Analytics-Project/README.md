@@ -5,8 +5,8 @@ Screenshots below show key visuals and drill-downs, along with short explanation
 
 ---
 
-## 📌Regional Performance Overview
-Displays overall performance trends broken down by state.
+## 📌 Profit Trends by Year  
+Shows overall profit performance across time. Users can filter specific years to focus on trend changes.
 
 ![Screenshot 1](regionalperformanceoverview.png)
 
