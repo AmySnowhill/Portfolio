@@ -1,6 +1,6 @@
 # Amy Snowhill — Portfolio
 
-This portfolio highlights selected work focused on visualization, modeling, and business analysis.
+I focus on finding trends in data, identifying bottlenecks, and turning analysis into practical insights. My work includes dashboard design, process modeling, and communicating findings clearly.
 
 ## SAS Visual Analytics Dashboard
 Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
