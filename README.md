@@ -27,6 +27,14 @@ Mini brand and marketing plan with mock website assets and product concept.
 - Presentation and communication
 
 ---
+## Tools Used
+-SAS Visual Analytics
+-Tableau
+-Excel
+-SQL
+-Arena Simulation
+-GitHub
 
+---
 ## Connect
 LinkedIn: https://www.linkedin.com/in/amy-snowhill-4431b6363
