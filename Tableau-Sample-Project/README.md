@@ -1,7 +1,7 @@
 # Tableau Survey Project
 This project includes a dashboard and two visual stories based on survey results.
 Screenshots represent the dashboard and story output created in Tableau.
-![Dashboard](Screenshot%202025-10-06%20174946.png)
+![Dashboard](mobilebyage.png)
 ## 📘 Story 1
 ![Story 1](Screenshot%202025-10-06%20175003.png)
 ## 📗 Story 2
