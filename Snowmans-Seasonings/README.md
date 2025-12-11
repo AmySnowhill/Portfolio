@@ -13,7 +13,7 @@ Includes pricing model, target audience analysis, distribution channels, and gro
 
 📊 **Website Mock-Up (PowerPoint)**  
 Visual layout, messaging concepts, imagery, and promotional design.  
-👉 [Open File](Snowhill.Amy.Snowman.pptx)  
+👉 [Open File](SnowmanPP.pdf)  
 
 ---
 
