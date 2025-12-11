@@ -9,7 +9,7 @@ Deliverables include a business plan, market research, pricing model, website mo
 
 📄 **Business Plan & Marketing Strategy (Word Document)**  
 Includes pricing model, target audience analysis, distribution channels, and growth goals.  
-👉 [Open File](Snowhill.Amy.Marketing.docx)  
+👉 [Open File](./SnowmanMarketing.docx)  
 
 📊 **Website Mock-Up (PowerPoint)**  
 Visual layout, messaging concepts, imagery, and promotional design.  
