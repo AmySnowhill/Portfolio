@@ -12,7 +12,7 @@ Executive summary presentation created for Insight Toy Company using SAS Visual 
 - Earned a perfect score (100%)
 
 This project was recognized as executive-level quality for its clear storytelling, visuals, and strategic recommendations.
-
+➡️ [View Project Files](./Insight-Toy-Executive-Deck)
 ## SAS Visual Analytics Dashboard
 Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
 ➡️ [View Project Files](https://github.com/AmySnowhill/Portfolio/tree/main/SAS-Visual-Analytics-Project)
