@@ -1,6 +1,17 @@
 # Amy Snowhill — Portfolio
 
 I focus on finding trends in data, identifying bottlenecks, and turning analysis into practical insights. My work includes dashboard design, process modeling, and communicating findings clearly.
+## Featured Project: Executive Analytics Strategy Deck (SAS)
+
+Executive summary presentation created for Insight Toy Company using SAS Visual Analytics.
+
+- Built a 15-page leadership-ready analytics deck
+- Recommended a 20% product portfolio reduction
+- Preserved 93% of total profit
+- Identified Plush as top-performing category ($448K profit, 32% margin)
+- Earned a perfect score (100%)
+
+This project was recognized as executive-level quality for its clear storytelling, visuals, and strategic recommendations.
 
 ## SAS Visual Analytics Dashboard
 Interactive dashboard exported from SAS Visual Analytics showing trends, drill-downs, and regional performance insights.  
