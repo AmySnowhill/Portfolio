@@ -29,6 +29,11 @@ Executive dashboard and two data stories based on survey results.
 Mini brand and marketing plan with mock website assets and product concept.  
 ➡️ [View Project Files](Snowmans-Seasonings/)
 
+## Forage Learning Certificates
+
+Virtual job simulations completed through Forage to build practical experience in business and data-driven decision making.
+
+➡️ [View Certificates](./Forage-Simulation-Certificates)
 ---
 
 ## Skills Demonstrated
