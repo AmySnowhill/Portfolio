@@ -32,7 +32,6 @@ Mini brand and marketing plan with mock website assets and product concept.
 ## Forage Learning Certificates
 
 Virtual job simulations completed through Forage to build practical experience in business and data-driven decision making.
-
 ➡️ [View Project Files](./Forage-Simulation-Certificates)
 ---
 
